@@ -1,0 +1,13 @@
+ipython
+jupyter_client
+jupyter_console
+numpy
+matplotlib
+pillow
+scipy
+scikit-image
+ipywidgets
+opencv-contrib-python
+exif
+jupyter_contrib_nbextensions
+
